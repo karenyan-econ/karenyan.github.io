@@ -1,0 +1,12 @@
+
+~ $ git clone https://github.com/karenyan.github.io
+
+~ $ cd karenyan.github.io
+
+~ $ echo "welcome">index.html
+
+~ $ git add --all
+
+~ $ git commit -m "Initial commit"
+
+~ $ git push -u origin master

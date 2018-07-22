@@ -1,1 +1,3 @@
 ~ $ git clone https://github.com/karenyan.github.io
+~ $ cd karenyan.github.io
+~ $ echo "welcome">index.html
